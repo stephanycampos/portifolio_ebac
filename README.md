@@ -1,15 +1,12 @@
-> ## Responsive Portfolio Website Mrinmoy
+> ## Portifolio Responsivo 
 
 
-- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a light and dark mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
--  Thank You for visiting😀
+- Site de Portfólio Pessoal Responsivo usando HTML, CSS e JavaScript
+- Rolagem suave em cada seção
+- Inclui modo claro e modo escuro
+- Desenvolvido primeiro com a metodologia Mobile First e depois para desktop
+- Compatível com todos os dispositivos móveis, com interface bonita e agradável
 
-> ## Preview:
-![Preview.png](https://github.com/MRINMOY662/Modern-Portfolio-Website-Template/blob/main/preview.png)
 
 
 
